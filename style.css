@@ -35,6 +35,7 @@ p{color: dimgray;}
     }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }    
 .link-button{
     text-decoration: none;
